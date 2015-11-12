@@ -1,2 +1,4 @@
-# sisfoakademik
-Aplikasi Sistem Informasi Akademik STT Texmaco
+siska
+=====
+
+Sistem Informasi Akademik STMIK Bumigora
